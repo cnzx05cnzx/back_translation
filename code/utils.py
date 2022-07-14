@@ -3,8 +3,8 @@ import random
 from hashlib import md5
 
 # Set your own appid/appkey.
-appid = '20220714001272430'
-appkey = 'UG22MsBHqAO0AwkQWjsU'
+appid = 'xxxxxx'
+appkey = 'xxxxxx'
 
 
 def get_trans(query, from_lang='en', to_lang='zh'):
